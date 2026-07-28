@@ -6,7 +6,6 @@ This project develops and compares classification models (logistic regression, d
 
 ## Repository structure
 qatar-accident-severity/
-
 |-- data/
 |   |-- raw/
 |   |   |-- accident.parquet        Frozen snapshot of the full MOI dataset (1,000,500 records)
