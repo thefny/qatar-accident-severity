@@ -2,7 +2,9 @@
 
 An interactive, editable map of Qatar's 98 census/administrative zones, grouped and color-coded by municipality. Built as a lightweight static web app — no backend, no build step, no API key required.
 
-**Live demo:** https://www.perplexity.ai/computer/a/qatar-zones-map-WdtxswH2Q8Wi8Pjaj88lUw
+**Live demo (GitHub Pages):** https://thefny.github.io/qatar-accident-severity/
+
+**Live demo (Perplexity preview):** https://www.perplexity.ai/computer/a/qatar-zones-map-WdtxswH2Q8Wi8Pjaj88lUw
 
 ## Features
 

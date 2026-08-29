@@ -28,6 +28,8 @@ qatar-accident-severity/
 ## Interactive tools
 `tools/qatar-zone-map/` is a standalone, static, editable web map of Qatar's 98 census zones grouped into 9 municipality areas. It includes a choropleth accident-severity overlay (total accidents, serious accidents, injury rate, serious rate) built from this repository's severity-by-zone breakdown, alongside the municipality grouping view. No build step or server is required — open `tools/qatar-zone-map/index.html` directly in a browser, or serve the folder as a static site (e.g. GitHub Pages). See `tools/qatar-zone-map/README.md` for details, data sources, and known limitations.
 
+**Live map:** https://thefny.github.io/qatar-accident-severity/
+
 ## Data source and license
 The dataset 'accident.parquet' is published by the **Ministry of Interior, State of Qatar**, via the Qatar Open Data Portal:
 https://www.data.gov.qa/explore/dataset/accident/
