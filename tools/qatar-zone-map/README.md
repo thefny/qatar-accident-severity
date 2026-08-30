@@ -4,8 +4,6 @@ An interactive, editable map of Qatar's 98 census/administrative zones, grouped 
 
 **Live demo (GitHub Pages):** https://thefny.github.io/qatar-accident-severity/
 
-**Live demo (Perplexity preview):** https://www.perplexity.ai/computer/a/qatar-zones-map-WdtxswH2Q8Wi8Pjaj88lUw
-
 ## Features
 
 - **90 of 98 zones rendered with real official boundaries**, sourced from Qatar's CGIS Census Zone service and cross-validated against the municipality/district lookup table. The remaining 8 zones (8, 9, 10, 11, 59, 87, 88, 89) are listed with their metadata but have no current official boundary in the live GIS domain — this matches the source data's own legacy/unverified flags, not a rendering gap.
